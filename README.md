@@ -4,11 +4,12 @@
   **Naive Random Oversampling** 
 		Our balanced accuracy test is 67%, precision for the high risk has a very low positivity at 1% and recall at 62%
 ![](Resources/images/naiverandomoversampling.png)
-	**SMOTE oversampling**
+   **SMOTE oversampling**
 		accuracy score is 66%, precision for the high risk loans has a low positivity at 1% and recall at 64%
 ![](Resources/images/SMOTEoversampling.png)
-	**Undersampling **
-		balanced accuracy score is 59%, precision at 99% and recall at 44%
+   **Undersampling **
+   
+	balanced accuracy score is 59%, precision at 99% and recall at 44%
 ![](Resources/images/undersampling.png)
 	**Combination(over and undersampling)**
 		balanced accuracy score is 69%, precision at 99% and recall at 58%
